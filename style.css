@@ -19,8 +19,8 @@ body {
 #bird {
     position: absolute;
     background: url('Eric-cartman.png    ');
-    height: 65px;
-    width: 42px;
+    height: 75px;
+    width: 54px;
     background-size: contain;
     background-repeat: no-repeat;
     top: 20%;
