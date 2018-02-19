@@ -19,8 +19,8 @@ body {
 #bird {
     position: absolute;
     background: url('ButtersStotch.png');
-    height: 65px;
-    width: 200px;
+    height: 42px;
+    width: 65px;
     background-size: contain;
     background-repeat: no-repeat;
     top: 20%;
