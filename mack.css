@@ -19,8 +19,8 @@ body {
 #bird {
     position: absolute;
     background: url('Mr_Mackey_New%202.png');
-    height: 85px;
-    width: 200px;
+    height: 65px;
+    width: 42px;
     background-size: contain;
     background-repeat: no-repeat;
     top: 20%;
